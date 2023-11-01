@@ -1,5 +1,5 @@
 # GABM-Tutorial-Models
-Contains the code for the paper [Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence](https://arxiv.org/abs/2309.11456).
+Contains the code for the paper [Generative agent-based modeling: an introduction and tutorial](https://arxiv.org/abs/2309.11456).
 The code can be run by downloading the different .ipynb files and either running them locally on Jupyter Notebooks/Anaconda, or uploading them to Google Colab and running them on cloud.
 ***It is recommended to use Google Colab to run Tutorial_for_GABM_with_multiprocessing because multiprocessing may not run on a Jupyter kernel, causing the machine to become unresponsive indefinitely***.
 
